@@ -4,7 +4,7 @@
   <profile>
     <description_file>XBP24-ZB_29A7_S2B.xml</description_file>
     <settings>
-      <setting command="ID">0</setting>
+      <setting command="ID">1337</setting>
       <setting command="SC">7FFF</setting>
       <setting command="SD">3</setting>
       <setting command="ZS">0</setting>
@@ -12,7 +12,7 @@
       <setting command="JN">0</setting>
       <setting command="DH">0</setting>
       <setting command="DL">0</setting>
-      <setting command="NI">0x20</setting>
+      <setting command="NI">jeff</setting>
       <setting command="NH">30</setting>
       <setting command="BH">0</setting>
       <setting command="DD">30000</setting>
@@ -29,10 +29,10 @@
       <setting command="SB">0</setting>
       <setting command="D7">1</setting>
       <setting command="D6">0</setting>
-      <setting command="AP">1</setting>
+      <setting command="AP">2</setting>
       <setting command="AO">0</setting>
       <setting command="SM">4</setting>
-      <setting command="ST">1388</setting>
+      <setting command="ST">4E20</setting>
       <setting command="SP">20</setting>
       <setting command="SN">1</setting>
       <setting command="SO">0</setting>

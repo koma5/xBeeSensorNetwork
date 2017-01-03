@@ -4,7 +4,7 @@
   <profile>
     <description_file>XBP24-ZB_23A7_S2B.xml</description_file>
     <settings>
-      <setting command="ID">0</setting>
+      <setting command="ID">1337</setting>
       <setting command="SC">7FFF</setting>
       <setting command="SD">3</setting>
       <setting command="ZS">0</setting>
@@ -14,7 +14,7 @@
       <setting command="JN">0</setting>
       <setting command="DH">0</setting>
       <setting command="DL">0</setting>
-      <setting command="NI">0x20</setting>
+      <setting command="NI">hugo</setting>
       <setting command="NH">30</setting>
       <setting command="BH">0</setting>
       <setting command="AR">FF</setting>

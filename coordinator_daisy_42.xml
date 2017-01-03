@@ -4,14 +4,14 @@
   <profile>
     <description_file>XBP24-ZB_21A7_S2B.xml</description_file>
     <settings>
-      <setting command="ID">0</setting>
+      <setting command="ID">1337</setting>
       <setting command="SC">7FFF</setting>
       <setting command="SD">3</setting>
       <setting command="ZS">0</setting>
       <setting command="NJ">FF</setting>
       <setting command="DH">0</setting>
       <setting command="DL">FFFF</setting>
-      <setting command="NI">0x20</setting>
+      <setting command="NI">daisy</setting>
       <setting command="NH">30</setting>
       <setting command="BH">0</setting>
       <setting command="AR">FF</setting>
@@ -30,7 +30,7 @@
       <setting command="SB">0</setting>
       <setting command="D7">1</setting>
       <setting command="D6">0</setting>
-      <setting command="AP">1</setting>
+      <setting command="AP">2</setting>
       <setting command="AO">0</setting>
       <setting command="SP">20</setting>
       <setting command="SN">1</setting>
